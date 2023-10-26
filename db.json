@@ -1,0 +1,104 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "title": "Proceso de espera",
+      "description": "Se realizo la solicitud de compra de un cliente que pidio una hamburguesa",
+      "time": "00:15",
+      "image": "https://images.pexels.com/photos/1998927/pexels-photo-1998927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Guillermo Ortega",
+      "status": "en produccion"
+    },
+    {
+      "id": 2,
+      "title": "Pedido especial",
+      "description": "El equipo se encuentra preparando un menu de tacos pra un cliente que considera esta comida como una prioridad.",
+      "time": "01:05",
+      "image": "https://images.pexels.com/photos/2087748/pexels-photo-2087748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Fernando Fernandez",
+      "status": "por hacer"
+    },
+    {
+      "id": 3,
+      "title": "Pedido urgente",
+      "description": "Un cliente ha solicitado la entrega de Cupcakes a domicilio, con caracter de urgencia.El equipo esta haciendo lo imposible para cumplir con el pedido",
+      "time": "00:55",
+      "image": "https://images.pexels.com/photos/1120464/pexels-photo-1120464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Juan Carlos Peralta",
+      "status": "por testear"
+    },
+    {
+      "id": 4,
+      "title": "Producción continua",
+      "description": "La fabricación de pizzas esta proceso para poder cumplir con la demanda actual de las mismas",
+      "time": "03:30",
+      "image": "https://images.pexels.com/photos/5056849/pexels-photo-5056849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Leonel Corvel",
+      "status": "terminada"
+    },
+    {
+      "id": 5,
+      "title": "Preparación de pastas",
+      "description": "El equipo de cocina está en proceso de elaboracion de pastas ",
+      "time": "01:10",
+      "image": "https://images.pexels.com/photos/4057695/pexels-photo-4057695.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Esteban Gomez",
+      "status": "en produccion"
+    },
+    {
+      "id": 6,
+      "title": "Envío de bebidas",
+      "description": "Se están distribuyendo bebidas a los clientes para que acompañen sus pedidos de comida",
+      "time": "00:40",
+      "image": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Sergio Perez",
+      "status": "por hacer"
+    },
+    {
+      "id": 7,
+      "title": "Cocina gourmet",
+      "description": "Se estan probando diferentes platos gourmets de degustacion para los clientes mas exigentes",
+      "time": "05:00",
+      "image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Monica Alvarez",
+      "status": "por hacer"
+    },
+    {
+      "id": 8,
+      "title": "Entrega rapida",
+      "description": "Un pedido de empanadas que se requiere con velocidad para una reunion de comensales imprevista",
+      "time": "00:10",
+      "image": "https://images.pexels.com/photos/12917975/pexels-photo-12917975.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Jose Echegaray",
+      "status": "terminada"
+    },
+    {
+      "id": 9,
+      "title": "Menú de la semana",
+      "description": "El menu de la semana va rotando para poder ofrecer un plato unico y exotico para degustar",
+      "time": "00:30",
+      "image": "https://images.pexels.com/photos/4846391/pexels-photo-4846391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "martin Cortado",
+      "status": "en produccion"
+    },
+    {
+      "id": 10,
+      "title": "Pedido especial",
+      "description": "Se recibio un pedido unico de sushis personalizados",
+      "time": "00:30",
+      "image": "https://images.pexels.com/photos/3298596/pexels-photo-3298596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Jorge Gomez",
+      "status": "por hacer"
+    },
+    {
+      "id": 11,
+      "title": "Envio de parrillada",
+      "description": "Se busca testear la entrega de parrilladas recien salidas de la parrilla y bien humeantes para tener esa sensación de una parrillada",
+      "time": "03:10",
+      "image": "https://images.pexels.com/photos/18719656/pexels-photo-18719656/free-photo-of-delicioso-barbacoa-fotografia-de-comida-carne-a-la-parrilla.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "responsible": "Franco Guriao",
+      "status": "por testear"
+    }
+    
+  ]
+}
